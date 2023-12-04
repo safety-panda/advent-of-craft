@@ -14,6 +14,8 @@ class ArticleTests {
         );
 
         article.addComment("Amazing article !!!", "Pablo Escobar");
+
+        assertThat(article.getComments()).hasSize(1);
     }
 
     @Test
