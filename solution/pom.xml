@@ -10,9 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>day01</module>
-		<module>day02</module>
+        <module>day02</module>
 		<module>day03</module>
-		<module>day04</module>
     </modules>
 
     <properties>
